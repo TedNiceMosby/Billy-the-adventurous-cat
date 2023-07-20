@@ -1,0 +1,203 @@
+# depslib dependency file v1.0
+1638146092 source:c:\users\niña rata\desktop\proyectos\juego1\main.cpp
+	<allegro.h>
+
+1638641075 source:c:\users\tareas\documents\isis\upiita\3er semestre\programación orientada a objetos\proyecto final\juego1\main.cpp
+	<iostream>
+	<allegro.h>
+	"Mapa.h"
+	"SubMapa1.h"
+	"Personaje.h"
+	"Juego.h"
+
+1638251064 source:c:\users\tareas\documents\isis\upiita\3er semestre\programación orientada a objetos\proyecto final\juego1\src\mapa.cpp
+	"Mapa.h"
+	<iostream>
+	<allegro.h>
+
+1638252034 c:\users\tareas\documents\isis\upiita\3er semestre\programación orientada a objetos\proyecto final\juego1\include\mapa.h
+	<iostream>
+	<allegro.h>
+
+1638241797 source:c:\users\tareas\documents\isis\upiita\3er semestre\programación orientada a objetos\proyecto final\juego1\src\nivel1.cpp
+	"Nivel1.h"
+
+1638241796 c:\users\tareas\documents\isis\upiita\3er semestre\programación orientada a objetos\proyecto final\juego1\include\nivel1.h
+
+1638643415 source:c:\users\tareas\documents\isis\upiita\3er semestre\programación orientada a objetos\proyecto final\juego1\src\submapa1.cpp
+	"SubMapa1.h"
+	"Mapa.h"
+	<iostream>
+	<allegro.h>
+
+1638643484 c:\users\tareas\documents\isis\upiita\3er semestre\programación orientada a objetos\proyecto final\juego1\include\submapa1.h
+	"Mapa.h"
+	<iostream>
+	<allegro.h>
+
+1638639403 c:\users\tareas\documents\isis\upiita\3er semestre\programación orientada a objetos\proyecto final\juego1\include\personaje.h
+	<iostream>
+	<allegro.h>
+	"SubMapa1.h"
+
+1638587601 c:\users\tareas\documents\isis\upiita\3er semestre\programación orientada a objetos\proyecto final\juego1\include\gato.h
+	<iostream>
+	"SubMapa1.h"
+	<allegro.h>
+
+1638637381 source:c:\users\tareas\documents\isis\upiita\3er semestre\programación orientada a objetos\proyecto final\juego1\src\personaje.cpp
+	"Personaje.h"
+	<iostream>
+	<allegro.h>
+	"SubMapa1.h"
+
+1638639178 source:c:\users\tareas\documents\isis\upiita\3er semestre\programación orientada a objetos\proyecto final\juego1\src\juego.cpp
+	"Juego.h"
+	<iostream>
+	<allegro.h>
+	"SubMapa1.h"
+	"Personaje.h"
+
+1638639069 c:\users\tareas\documents\isis\upiita\3er semestre\programación orientada a objetos\proyecto final\juego1\include\juego.h
+	<allegro.h>
+	"SubMapa1.h"
+	"Personaje.h"
+
+1638667901 source:c:\users\niña rata\downloads\ultimo\juego1\main.cpp
+	<iostream>
+	<allegro.h>
+	"Mapa.h"
+	"SubMapa1.h"
+	"Personaje.h"
+	"Juego.h"
+
+1638665701 c:\users\niña rata\downloads\ultimo\juego1\include\mapa.h
+	<iostream>
+	<allegro.h>
+
+1638667220 c:\users\niña rata\downloads\ultimo\juego1\include\submapa1.h
+	"Mapa.h"
+	<iostream>
+	<allegro.h>
+	"Personaje.h"
+
+1638666554 c:\users\niña rata\downloads\ultimo\juego1\include\personaje.h
+	<iostream>
+	<allegro.h>
+	"SubMapa1.h"
+
+1638639069 c:\users\niña rata\downloads\ultimo\juego1\include\juego.h
+	<allegro.h>
+	"SubMapa1.h"
+	"Personaje.h"
+
+1638639178 source:c:\users\niña rata\downloads\ultimo\juego1\src\juego.cpp
+	"Juego.h"
+	<iostream>
+	<allegro.h>
+	"SubMapa1.h"
+	"Personaje.h"
+
+1638251064 source:c:\users\niña rata\downloads\ultimo\juego1\src\mapa.cpp
+	"Mapa.h"
+	<iostream>
+	<allegro.h>
+
+1638661043 source:c:\users\niña rata\downloads\ultimo\juego1\src\personaje.cpp
+	"Personaje.h"
+	<iostream>
+	<allegro.h>
+	"SubMapa1.h"
+
+1638667233 source:c:\users\niña rata\downloads\ultimo\juego1\src\submapa1.cpp
+	"SubMapa1.h"
+	"Mapa.h"
+	"SubMapa1.h"
+	<iostream>
+	"Personaje.h"
+	<allegro.h>
+
+1639815073 source:c:\users\tareas\downloads\ultimo\juego1\main.cpp
+	<iostream>
+	<allegro.h>
+	"Mapa.h"
+	"SubMapa1.h"
+	"Personaje.h"
+	"Juego.h"
+	"Menu.h"
+
+1639842872 c:\users\tareas\downloads\ultimo\juego1\include\mapa.h
+	<iostream>
+	<allegro.h>
+
+1639800435 c:\users\tareas\downloads\ultimo\juego1\include\submapa1.h
+	"Mapa.h"
+	<iostream>
+	<allegro.h>
+
+1639801543 c:\users\tareas\downloads\ultimo\juego1\include\personaje.h
+	<iostream>
+	<allegro.h>
+	<string>
+
+1639805771 c:\users\tareas\downloads\ultimo\juego1\include\juego.h
+	<allegro.h>
+	<random>
+	<iostream>
+	<chrono>
+	<sstream>
+	"SubMapa1.h"
+	"Gato.h"
+	"Enemigo.h"
+
+1639805771 source:c:\users\tareas\downloads\ultimo\juego1\src\juego.cpp
+	"Juego.h"
+	<iostream>
+	<allegro.h>
+	<cstdlib>
+	"SubMapa1.h"
+	"Personaje.h"
+	"Enemigo.h"
+
+1639798320 source:c:\users\tareas\downloads\ultimo\juego1\src\mapa.cpp
+	"Mapa.h"
+	<iostream>
+	<allegro.h>
+
+1639801543 source:c:\users\tareas\downloads\ultimo\juego1\src\personaje.cpp
+	"Personaje.h"
+	<iostream>
+	<allegro.h>
+
+1639800488 source:c:\users\tareas\downloads\ultimo\juego1\src\submapa1.cpp
+	"SubMapa1.h"
+	"Mapa.h"
+	<iostream>
+	<allegro.h>
+
+1639802193 source:c:\users\tareas\downloads\ultimo\juego1\src\gato.cpp
+	"Gato.h"
+
+1639802193 c:\users\tareas\downloads\ultimo\juego1\include\gato.h
+	<iostream>
+	<allegro.h>
+	"Personaje.h"
+
+1639802876 source:c:\users\tareas\downloads\ultimo\juego1\src\enemigo.cpp
+	"Enemigo.h"
+	<allegro.h>
+
+1639802559 c:\users\tareas\downloads\ultimo\juego1\include\enemigo.h
+	<iostream>
+	<allegro.h>
+	<random>
+	<chrono>
+	"Personaje.h"
+
+1639796967 source:c:\users\tareas\downloads\ultimo\juego1\src\menu.cpp
+	"Menu.h"
+	<allegro.h>
+
+1639796971 c:\users\tareas\downloads\ultimo\juego1\include\menu.h
+	<allegro.h>
+
